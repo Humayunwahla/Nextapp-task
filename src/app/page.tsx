@@ -11,7 +11,7 @@ export default function Home() {
      <Hero/>
      <Items/>
      
-     <script src="http://localhost:8097"></script>
+     
     </main>
     
   );
